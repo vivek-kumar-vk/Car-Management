@@ -1,4 +1,4 @@
-package com.smngpg.carManProj;
+package com.vivek.carManagementProject;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;
