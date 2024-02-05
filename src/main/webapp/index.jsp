@@ -18,7 +18,7 @@
 				<a href="AddCar.jsp">Add New Car</a>
 			</h3>
 			<h3>
-				<a href="displayAllCars">Display All Cars</a>
+				<a href="displayAllCar">Display All Cars</a>
 			</h3>
 		</div>
 	</div>
